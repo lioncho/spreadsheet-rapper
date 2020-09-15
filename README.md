@@ -25,9 +25,9 @@ from sqlite3 import Error
 from oauth2client.service_account import ServiceAccountCredentials
 warnings.filterwarnings("ignore")
 
-'javascript
+'''javascript
 pip install bs4
-'
+''''
 
 # chromedriver
 curreunt source is mac os
