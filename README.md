@@ -1,3 +1,6 @@
+# run properly 
+give github id , and google email for permission all access
+
 # lang
 python3
 
@@ -30,3 +33,4 @@ curreunt source is mac os
 # run
 python manage.py runserver (locally) <br>
 python manage.py runserver 0.0.0.1:8000 (on server)
+
