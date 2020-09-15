@@ -1,1 +1,5 @@
-# use python3
+# lang
+python3
+
+# db 
+/db.sqlite3
