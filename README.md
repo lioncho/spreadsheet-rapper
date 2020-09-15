@@ -1,6 +1,7 @@
 # run properly 
 -give github id , and google email for permission all access to me.<br>
--need to request 'creds.json'
+-you need 'creds.json'
+-you need permission to access 'link2.sheet' , 'new2.sheet' 
 
 # lang
 python3
