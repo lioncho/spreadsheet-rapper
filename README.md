@@ -1,5 +1,6 @@
 # run properly 
-give github id , and google email for permission all access to me.
+-give github id , and google email for permission all access to me.<br>
+-need to request 'creds.json'
 
 # lang
 python3
