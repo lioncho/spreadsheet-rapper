@@ -1,3 +1,6 @@
+# System Logic
+https://www.figma.com/file/3ixrkqOoet6fNXfIxTqM5U/gsheet?node-id=0%3A1
+
 # run properly 
 -give github id , and google email for permission all access to me.<br>
 -you need 'creds.json'<br>
