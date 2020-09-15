@@ -1,5 +1,5 @@
 # run properly 
-give github id , and google email for permission all access
+give github id , and google email for permission all access to me.
 
 # lang
 python3
