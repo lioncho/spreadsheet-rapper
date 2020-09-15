@@ -28,5 +28,5 @@ warnings.filterwarnings("ignore")
 curreunt source is mac os
 
 # run
-python manage.py runserver (locally) 
+python manage.py runserver (locally) <br>
 python manage.py runserver 0.0.0.1:8000 (on server)
