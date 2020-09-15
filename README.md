@@ -5,7 +5,7 @@ give github id , and google email for permission all access to me.
 python3
 
 # db 
-/db.sqlite3
+google spread sheet ( new2.sheet )
 
 # library
 from django.http import HttpResponse
